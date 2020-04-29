@@ -32,3 +32,4 @@ new Game(16, 16, 30, ["🐱", "📛", "💣", "🔍"], false)
 ### Why
 
 [WHY IS THIS A QUESTION?!](https://twitter.com/muanchiou/status/601633821012856832)
+ https://yashterror7.github.io/mine-sweeper-yash-bhatt/
